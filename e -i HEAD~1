@@ -1,0 +1,11 @@
+[33mcommit 0411103bfb1b2af14800e5b3f87e4bfa21b04b12[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: StactBaeche <stactbaeche@baechesgalore>
+Date:   Mon Jan 6 11:15:20 2025 +0200
+
+    Adds new modules
+
+[33mcommit 25dba3784def1884a1f708a90637876362157b1d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: StactBaeche <stactbaeche@baechesgalore>
+Date:   Mon Jan 6 10:45:44 2025 +0200
+
+    Adds repo structure for trojan.
